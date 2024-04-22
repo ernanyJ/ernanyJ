@@ -29,6 +29,8 @@
 - mySQL
 - Python
 - C++
+- Dart
+- Flutter
 
 <br>
 <div align="center">
