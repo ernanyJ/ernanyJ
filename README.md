@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=529A4C\&center=true&vCenter=true&random=false&width=435&lines=%E2%AD%90+Welcome+to+my+profile!;%E2%AD%90+I'm+Ernany.)](https://git.io/typing-svg)
 
 
-![a24cb568fa40046f8562dbc45cea8506](https://github.com/ernanyJ/ernanyJ/assets/124080522/e9225bf5-a147-42fe-bba2-6e322efa9bbc)
+![a24cb568fa40046f8562dbc45cea8506]([https://github.com/ernanyJ/ernanyJ/assets/124080522/e9225bf5-a147-42fe-bba2-6e322efa9bbc](https://i.pinimg.com/originals/99/cd/09/99cd0925c516b5d0a740dffd03c3e0df.gif))
 <div>
 
 <div align="left">
