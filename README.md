@@ -29,14 +29,15 @@
 <br>
 <div align="center">
 
-![21e2e73eb9a9984e3b407328f65f5e5b](https://github.com/ernanyJ/ernanyJ/assets/124080522/60460a48-a864-4173-9b28-caf8832d143d)
-
 <div>
-
-
+  
 ### You can contact me in: 
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julioernany@gmail.com) 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julioernany/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devcafeinado)
+
+![529c49e9164d33dd37bdc658d9a807f5](https://github.com/ernanyJ/ernanyJ/assets/124080522/3163b3ad-1229-42c6-a14f-336c4913e461)
+
+
 
