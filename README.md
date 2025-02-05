@@ -11,7 +11,7 @@
 <div align="left">
 
 ## 🍄 About me :
-<p> I'm a self-taught passionate technology student who loves to discover new things. Currently I am studying Computer Science at Universidade Estadual de Roraima. <p>
+<p> I'm a self-taught passionate technology student who loves to discover new things. Currently I am studyingSoftware Analysis and Development at Instituto Federal de Roraima. <p>
 
 
 
